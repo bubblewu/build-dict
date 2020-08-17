@@ -37,4 +37,3 @@ build/
 .DS_Store
 *.log
 *.hprof
-/data/
